@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8539
     wikipedia: http://en.wikipedia.org/wiki/Kelly_Miller_%28scientist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31279#A-Review-of-Hoffman-s-Race-Traits-and-Tendencies-of-the-American-NegroThe-American-Negro-Acad_
 gutenberg_issued: '2010-02-15'
 gutenberg_type: Text
 identifiers:
